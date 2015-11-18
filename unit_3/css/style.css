@@ -1,0 +1,30 @@
+body {
+	  background-image: url("https://download.unsplash.com/39/483LKAktTE2ZB1UIkNYY_3.jpg");
+	  background-size: cover;
+	  color:#1559FF ;
+	  font-family: Helvetica;
+}
+
+#slogan {font-style: italic
+}
+
+#box1 {
+    width: 300px;
+    padding: 25px;
+    border: 25px solid navy;
+    margin: 25px;
+	} 
+
+
+#box2 {
+  border: 1px solid green ;
+}
+
+#list1 {text-align: center;
+}
+
+h1, p{color: #1559FF;
+	  text-align: center;
+}
+h3, p{text-align: center;
+}
